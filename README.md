@@ -3,11 +3,7 @@ Olá, Seja bem vindo(a)!
 
 📚 Atualmente estou cusando Superior em Tecnologia de Análise e Desenvolvimento de Sistemas na UniCesumar com ingresso em 09/2022 e encerramento em 2025
 
-🤓 Faço cursos por fora na UDEMY, B7WEB, DIO, (atualmente estudando desenvolvimento ANDROID), E também estudo inglês🗣️!
-
-💼 Estou a procura de uma oportunidade de estágio, contate-me!
-
- 📩: victorvaledev@gmail.com
+📩: victorvaledev@gmail.com
 
 
 Hards Skills:
