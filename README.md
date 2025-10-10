@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋/h1>
+<h1 align="center">Olá 👋 
 
 <h3 align="center">SDET | Software Quality Assurance Engineer | Automação & Gestão de Testes</h3>
 
