@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Victor Vale</h1>
+<h1 align="center">Olá 👋/h1>
 
 <h3 align="center">SDET | Software Quality Assurance Engineer | Automação & Gestão de Testes</h3>
 
@@ -18,6 +18,9 @@
   victorvaledev@gmail.com
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Victor-Valedev" alt="visitas ao perfil" />
+</p>
 
 
 ---
@@ -70,8 +73,6 @@
 - Análise e Desenvolvimento de Sistemas - UniCesumar (2022 - 2025)  
 
 ---
-
-## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Valedev&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
