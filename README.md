@@ -22,7 +22,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Victor-Valedev" alt="visitas ao perfil" />
 </p>
 
-
 ---
 
 ## 🚀 Áreas de Atuação
@@ -60,15 +59,9 @@
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
 </p>
 
-
-
-
-
-
-
 ---
 
-## 🎓 Educação & Certificação
+##  Educação 
 
 - Análise e Desenvolvimento de Sistemas - UniCesumar (2022 - 2025)  
 
@@ -77,10 +70,6 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Valedev&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Valedev&theme=dracula&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Valedev&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
