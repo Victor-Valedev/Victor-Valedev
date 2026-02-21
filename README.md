@@ -65,15 +65,6 @@
 
 - Análise e Desenvolvimento de Sistemas - UniCesumar (2022 - 2025)  
 
----
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Valedev&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Valedev&theme=dracula&layout=compact&langs_count=8" />
-</p>
-
----
-
 <p align="center">
   <em>"Qualidade de software é um processo contínuo, não um evento."</em>
 </p>
