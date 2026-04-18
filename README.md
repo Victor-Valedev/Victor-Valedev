@@ -40,24 +40,26 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cypress" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=selenium" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="40"/>
 </p>
+
 
 ---
 
